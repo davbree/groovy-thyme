@@ -2,6 +2,25 @@
 title: Home
 layout: PageLayout
 sections:
+  - elementId: ''
+    colors: colors-a
+    width: wide
+    height: tall
+    topGap: medium
+    bottomGap: medium
+    contentWidth: large
+    contentAlignHoriz: left
+    contentAlignVert: middle
+    textAlign: left
+    quote: >-
+      “It’s great to see someone taking action while still maintaining a
+      sustainable fish supply to home cooks.”
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    backgroundImage:
+      url: /images/dianne-ameter.jpg
+      altText: Product Marketing Manager
+    type: QuoteSection
   - type: HeroSection
     elementId: homepage-hero-1
     variant: variant-a
